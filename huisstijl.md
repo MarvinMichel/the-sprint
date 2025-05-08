@@ -28,15 +28,4 @@ Onze mensen noemen we Q'ers. Maar wie zijn dat dan? Die Q'ers die het internet a
 
 ### Info over mensen
 
-| Naam      | E-mail          | Filter                          |
-| --------- | --------------- | ------------------------------- |
-| Anne      | anne@q42.nl     | "Front-end", "Harry Potter fan" |
-| Bart      | bart@q42.nl     | "Short hair don't care"         |
-| Benny     | benny@q42.nl    | "Short hair don't care"         |
-| Bob       | bob@q42.nl      | "Front-end"                     |
-| Chris     | chris@q42.nl    | "Partner van de club"           |
-| Djovanni  | djovanni@q42.nl | "Front-end", "Harry Potter fan" |
-| Jan Jouke | janjouke@q42.nl | "Partner van de club"           |
-| Jasper    | jasper@q42.nl   | "Partner van de club"           |
-| Layla     | layla@q42.nl    | "Front-end"                     |
-| Mara      | mara@q42.nl     | "Harry Potter fan"              |
+Gebruikt de API endpoint `https://681c745cf74de1d219ac771e.mockapi.io/api/v1/people` om data op te halen van onze mensen.
