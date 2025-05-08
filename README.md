@@ -2,16 +2,21 @@
 
 De opdracht is het bouwen van een pagina voor onze website. Op de pagina willen we graag met trots al onze collega’s tonen aan de buitenwereld. Via een volledig responsive grid willen we alle Q’ers tonen van twee kanten: een serieuze kant en een speelse kant. Ook is het de bedoeling voor onze bezoekers om te kunnen filteren, om zo een specifieke groep in beeld te krijgen. Aan jullie de opdracht om deze pagina te ontwerpen en te prototypen.
 
-Er hoeft niet zoveel geschreven content aanwezig te zijn op de pagina. Alles wat er in moet komen kun je vinden bij [de huisstijl](./huisstijl.md). Alle foto's die gebruikt moeten worden en de fonts zijn al aanwezig in de repo.
+Er hoeft niet zoveel geschreven content aanwezig te zijn op de pagina. Alles wat er in moet komen kun je vinden bij [de huisstijl](./huisstijl.md), maar voel je vrij om content toe te voegen. Alle foto's die gebruikt moeten worden en de fonts zijn al aanwezig in de repo.
+
+De benodigde data van onze collega's kan opgehaald worden via dit API endpoint: `https://681c745cf74de1d219ac771e.mockapi.io/api/v1/people`.
+
+> [!IMPORTANT]
+> Gebruik alleen een `GET` method. Andere methodes passen de data aan en maken het onbruikbaar voor andere`
 
 ## KPI’s
 
 - [ ] Gebruikers kunnen filteren op tags
-  - “Short hair don’t care”
-  - “Is stiekem een designer”
-  - “Front-end”
-  - “Harry Potter fan”
-  - "Partner van de club"
+  1. “Short hair, don’t care”
+  2. “Is stiekem een designer”
+  3. “Front-end”
+  4. “Harry Potter fan”
+  5. "Partner van de club"
 - [ ] De pagina is volledig responsive
 - [ ] De foto’s in het grid hebben een hover animatie
   - Toont een andere foto van een collega
