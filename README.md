@@ -4,10 +4,8 @@ De opdracht is het bouwen van een pagina voor onze website. Op de pagina willen 
 
 Er hoeft niet zoveel geschreven content aanwezig te zijn op de pagina. Alles wat er in moet komen kun je vinden bij [de huisstijl](./huisstijl.md), maar voel je vrij om content toe te voegen. Alle foto's die gebruikt moeten worden en de fonts zijn al aanwezig in de repo.
 
-De benodigde data van onze collega's kan opgehaald worden via dit API endpoint: `https://681c745cf74de1d219ac771e.mockapi.io/api/v1/people`.
-
 > [!IMPORTANT]
-> Gebruik alleen een `GET` method. Andere methodes passen de data aan en maken het onbruikbaar voor andere`
+> De benodigde data van onze collega's kan opgehaald worden via dit API endpoint: `/api/people`. Bekijk de interactieve documentatie op [/docs](http://localhost:3000/docs) om te zien wat voor data je terug krijgt.
 
 ## KPI’s
 
