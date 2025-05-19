@@ -33,8 +33,8 @@ npm install
 
 Start de dev-server:
 
-> De dev-server heeft geen hot module reload. Voel je vrij om je eigen te gebruiken.
-
 ```bash
-npm run serve
+npm run start
 ```
+
+> De dev server heeft hot-module reload. Dus je hoeft niet je server te herstarten om je changes te bekijken.
