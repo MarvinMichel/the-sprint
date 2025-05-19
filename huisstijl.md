@@ -28,4 +28,4 @@ Onze mensen noemen we Q'ers. Maar wie zijn dat dan? Die Q'ers die het internet a
 
 ### Info over mensen
 
-Gebruikt de API endpoint `https://681c745cf74de1d219ac771e.mockapi.io/api/v1/people` om data op te halen van onze mensen.
+Gebruikt de API endpoint `/api/people` om data op te halen van onze mensen.
