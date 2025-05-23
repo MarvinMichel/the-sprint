@@ -6,7 +6,7 @@ Bij Q hebben we geen uitgebreide Brand Manual of huisstijl, maar er zijn een aan
 
 ### Kleuren palet
 
-| Omschrijving                 | Kleur     | Swatch                                                                     |
+| Omschrijving                 | Kleur     |                                                                      |
 | ---------------------------- | --------- | -------------------------------------------------------------------------- |
 | Q-groen                      | `#84bc2d` | ![groen](https://readme-swatches.vercel.app/84bc2d)                        |
 | Donkere achtergrond          | `#41453b` | ![donkere achtergrond](https://readme-swatches.vercel.app/41453b)          |
